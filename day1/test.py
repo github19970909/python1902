@@ -8,3 +8,6 @@
 # print("答案是"+str(a))
 
 print(end="")
+print(end="")
+print(end="")
+print(end="")
